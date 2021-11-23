@@ -1,0 +1,6 @@
+C:\Users\alber\RiderProjects\OOP_2\OOP_2\bin\Debug\OOP_2.exe
+C:\Users\alber\RiderProjects\OOP_2\OOP_2\bin\Debug\OOP_2.pdb
+C:\Users\alber\RiderProjects\OOP_2\OOP_2\obj\Debug\OOP_2.csprojAssemblyReference.cache
+C:\Users\alber\RiderProjects\OOP_2\OOP_2\obj\Debug\OOP_2.csproj.CoreCompileInputs.cache
+C:\Users\alber\RiderProjects\OOP_2\OOP_2\obj\Debug\OOP_2.exe
+C:\Users\alber\RiderProjects\OOP_2\OOP_2\obj\Debug\OOP_2.pdb
